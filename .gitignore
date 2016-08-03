@@ -1,1 +1,7 @@
 vendor
+.idea/.name
+.idea/misc.xml
+.idea/modules.xml
+.idea/openpay-server.iml
+.idea/vcs.xml
+.idea/workspace.xml
